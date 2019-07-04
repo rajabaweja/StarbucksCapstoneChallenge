@@ -5,7 +5,10 @@ Udacity Data Scientist Capstone project
 
 1. [Project Overview](#objectives)
 2. [Data Sets](#datasets)
+<<<<<<< Updated upstream
 2. [Problem Statement](#problem)
+=======
+>>>>>>> Stashed changes
 
 
 
